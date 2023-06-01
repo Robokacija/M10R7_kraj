@@ -6,7 +6,7 @@
 
 Potrebno je namjestiti PID parametre kako bismo dobili stabilnu kontrolu drona.
 
-For more information and products, please refer to [***web***](https://www.robookacija.hr).
+For more information and products, please refer to [***web***](https://www.robokacija.hr).
 
 ## License
 
